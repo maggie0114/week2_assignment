@@ -13,3 +13,5 @@
 56
 >>> article.find('JD')
 48
+
+# If want to monitor other article, can use the 'find' function to search the certain keyword.
